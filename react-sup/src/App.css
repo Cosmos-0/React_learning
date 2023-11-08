@@ -52,3 +52,7 @@ body {
 .o {
   color: red;
 }
+.game-info {
+  color: black;
+  /* rest of your styling */
+}
